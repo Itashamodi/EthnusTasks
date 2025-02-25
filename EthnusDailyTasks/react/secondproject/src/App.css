@@ -1,0 +1,22 @@
+/* .App {
+  text-align: center;
+} */
+
+.App-header {
+  margin-top: 20px;
+}
+.row {
+  margin: auto;
+}
+.thumbnail {
+  width: 90%;
+  height: 40%;
+  border: 5px solid black;
+}
+.vd_name {
+  font-size: medium;
+  font-weight: bold;
+}
+.channel_name{
+  font-size: small;
+}
